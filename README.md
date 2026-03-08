@@ -239,3 +239,9 @@ Each agent receives the raw data **plus all prior agents' outputs**, so findings
 cd api && npm run build
 cd frontend && npm run build   # → frontend/dist/
 ```
+
+---
+
+## 🤝 Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for setup, workflow, and pull request guidelines.
